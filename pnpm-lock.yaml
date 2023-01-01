@@ -1,0 +1,14 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@crashmax/tsconfig': ^1.0.2
+
+devDependencies:
+  '@crashmax/tsconfig': 1.0.2
+
+packages:
+
+  /@crashmax/tsconfig/1.0.2:
+    resolution: {integrity: sha512-rprJ3GpbSwegNFoV7TgE2ak6xMc4sT+6blW2xyeO6C8ka3gc1zc4++kBEvJUGmt9J/4bPl4RPX676VK/lZohdw==}
+    engines: {node: '>=14'}
+    dev: true
